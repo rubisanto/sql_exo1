@@ -38,7 +38,7 @@ VALUES ('Formation', 'Angular init', 2, 3, 1200, (nb_days*unit_price), (total_ex
 ('Coaching','Angular Techlead',2,20,900, (nb_days*unit_price), (total_exclude_tax + (total_exclude_tax * 20 / 100)),2),
 ('Coaching','Angular Techlead',2,50,800, (nb_days*unit_price), (total_exclude_tax + (total_exclude_tax * 20 / 100)),1),
 ('Coaching','Jakarta EE',1,20,900, (nb_days*unit_price), (total_exclude_tax + (total_exclude_tax * 20 / 100)),2),
-('Coaching','Angular Techlead',3,50,800, (nb_days*unit_price), (total_exclude_tax + (total_exclude_tax * 20 / 100)),1);
+('Coaching','Angular Techlead',3,50,800, (nb_days*unit_price), (total_exclude_tax + (total_exclude_tax * 20 / 100)),1),
 ('Coaching','Angular Techlead',4,50,800, (nb_days*unit_price), (total_exclude_tax + (total_exclude_tax * 20 / 100)),1);
 
 
