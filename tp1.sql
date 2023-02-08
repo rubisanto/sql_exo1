@@ -29,7 +29,22 @@ INSERT INTO clients (company_name, first_name, last_name, email, phone, address,
 ('Formation', 'React avancé', 2, 3, 1000, 3000, 3600, 2),
 ('Coaching','React Techlead',1,20,900,18000,21600,2),
 ('Coaching','Nest.js Techlead',1,50,800,40000,48000,1),
-('Coaching','React Teachead',3,null,null,null,null,null),
-('Coaching','Jakarta EE',3,null,null,null,null,null),
-('Coaching','Angular Techlead',4,null,null,null,null,null);
+('Coaching','React Teachead',3,20,900,18000,21600,2),
+('Coaching','Nest.js Techlead',3,50,800,40000,48000,1),
+('Coaching','Angular Techlead',4,20,900,18000,21600,2),
+('Coaching','Angular Techlead',4,50,800,40000,48000,1),
+('Coaching','Jakarta EE',3,20,900,18000,21600,2),
+('Coaching','Angular Techlead',4,50,800,40000,48000,1);
+('Coaching','Angular Techlead',4,50,800,40000,48000,1);
+
+
+INSERT INTO clients(company_name,first_name,last_name,email,phone,address,zip_code,city,country,state)
+VALUES
+	('Sopra','Fabrice','Martin','martin@mail.com','06 56 85 84 33','abc','xyz','Nantes','France',0),
+	('M2I Formation','Julien','Lamard','lamard@mail.com','06 11 22 33 44','abc','xyz','Paris','France',1),
+	('ATOS','Jean','Dupont','jeandupont@gmail.com','06 11 22 33 44','abc','xyz','Paris','France',1),
+	('SOPRA STERIA','Pierre', 'Martin','pierremartin@gmail.com', '06 11 22 33 44','abc','xyz','Paris','France',1),
+    
+
+
 
